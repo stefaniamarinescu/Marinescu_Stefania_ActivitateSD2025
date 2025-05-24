@@ -1,0 +1,3 @@
+﻿  ComandaOnline_LD.c
+D:\SDD_2\Pregatire_Test\ComandaOnline_LD.c(166,59): warning C4305: 'function': truncation from 'double' to 'float'
+  Pregatire_Test.vcxproj -> D:\SDD_2\Pregatire_Test\x64\Debug\Pregatire_Test.exe
